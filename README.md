@@ -19,7 +19,7 @@ O sistema permite cadastrar funcionários com informações pessoais e profissio
 
 ### 1️⃣ Clonar o repositório
 
-git clone https://github.com/euukc/cadastro-funcionarios-go.git
-cd cadastro-funcionarios-go
-go mod init https://github.com/euukc/cadastro-funcionarios-go.git
-go run main.go
+git clone https://github.com/euukc/cadastro-funcionarios-go.git <br>
+cd cadastro-funcionarios-go <br>
+go mod init https://github.com/euukc/cadastro-funcionarios-go.git <br>
+go run main.go <br>
